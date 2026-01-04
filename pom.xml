@@ -127,11 +127,11 @@
 
  <distributionManagement>
   <repository>
-    <id>maven-releases</id>
+    <id>nexus</id>
     <url>http://13.127.177.61:8081/repository/maven-releases/</url>
   </repository>
   <snapshotRepository>
-    <id>maven-snapshots</id>
+    <id>nexus</id>
     <url>http://localhost:8081/repository/maven-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
